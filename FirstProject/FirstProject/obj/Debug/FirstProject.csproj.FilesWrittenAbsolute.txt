@@ -1,0 +1,5 @@
+/home/alexich/CSharp/FirstProject/FirstProject/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/alexich/CSharp/FirstProject/FirstProject/bin/Debug/FirstProject.exe.mdb
+/home/alexich/CSharp/FirstProject/FirstProject/bin/Debug/FirstProject.exe
+/home/alexich/CSharp/FirstProject/FirstProject/obj/Debug/FirstProject.exe
+/home/alexich/CSharp/FirstProject/FirstProject/obj/Debug/FirstProject.exe.mdb
